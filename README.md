@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:1a0533,100:050510&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:3b0764,100:0d0221&height=140&section=header&text=Akshad%20Kurundwade&fontSize=38&fontColor=c4b5fd&animation=fadeIn&fontAlignY=55&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Builder&descAlignY=78&descSize=14&descColor=6e6a8a" width="100%"/>
 
-<br/>
+</div>
+
+<div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════╗
@@ -14,7 +16,7 @@
 ╚══════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&multiline=true&width=600&height=50&lines=→+Turning+ideas+into+AI-powered+reality;→+LLMs+·+RAG+·+Agents+·+Full+Stack" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=14&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=→+Turning+ideas+into+AI-powered+reality;→+LLMs+·+RAG+·+Agents+·+Full+Stack)](https://git.io/typing-svg)
 
 <br/>
 
@@ -171,10 +173,8 @@ Let's make AI work for people who need it most.
 
 ![](https://komarev.com/ghpvc/?username=Akshadkurundwade07&label=profile+views&color=7c3aed&style=flat-square)
 
-<br/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:1a0533,100:050510&height=3&section=footer" width="100%"/>
-
-*built with curiosity · powered by caffeine & AI · Akshad Kurundwade © 2026*
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:3b0764,100:0d0221&height=100&section=footer&fontColor=6e6a8a&fontSize=11&text=built%20with%20curiosity%20%C2%B7%20powered%20by%20caffeine%20%26%20AI&fontAlignY=65" width="100%"/>
 </div>
