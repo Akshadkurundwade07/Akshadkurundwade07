@@ -1,85 +1,113 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Akshad%20Kurundwade&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Builder%20of%20Intelligent%20Systems&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:1a0533,100:050510&height=3&section=header" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=🤖+Building+AI-powered+products+that+matter;🚀+Turning+ideas+into+intelligent+applications)](https://git.io/typing-svg)
+<br/>
+
+```
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║      A K S H A D   K U R U N D W A D E              ║
+║      AI Engineer  ·  Full Stack Developer            ║
+║      Building intelligent products that matter       ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&multiline=true&width=600&height=50&lines=→+Turning+ideas+into+AI-powered+reality;→+LLMs+·+RAG+·+Agents+·+Full+Stack" alt="Typing SVG" />
+
+<br/>
+
+![](https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-7c3aed?style=flat-square&labelColor=0d0d1a)
+![](https://img.shields.io/badge/LOCATION-Kolhapur%2C%20IN%20🇮🇳-14b8a6?style=flat-square&labelColor=0d0d1a)
+![](https://img.shields.io/badge/FOCUS-Agentic%20AI%20%26%20Full%20Stack-f97316?style=flat-square&labelColor=0d0d1a)
 
 </div>
 
+<br/>
+
 ---
 
-## 👋 About Me
+## `~/about`
 
 ```python
 akshad = {
-    "name"       : "Akshad Kurundwade",
-    "location"   : "Kolhapur, Maharashtra 🇮🇳",
-    "focus"      : "AI Engineering & Full Stack Development",
-    "passion"    : "Building smart tools that solve real-world problems",
-    "currently"  : ["Exploring Agentic AI", "LLMs & RAG Systems", "AI SaaS Products"],
-    "portfolio"  : "https://warm-sorbet-ec0185.netlify.app/",
-    "linkedin"   : "linkedin.com/in/akshad-kurundwade-208079282",
+    "name"      : "Akshad Kurundwade",
+    "role"      : "AI Engineer & Full Stack Developer",
+    "location"  : "Kolhapur, Maharashtra 🇮🇳",
+    "building"  : "intelligent products that solve real problems",
+    "stack"     : ["Groq", "LangChain", "HuggingFace", "React", "Node.js", "Python"],
+    "exploring" : ["Multi-Agent Systems", "RAG Pipelines", "AI SaaS Products"],
+    "portfolio" : "https://warm-sorbet-ec0185.netlify.app/",
+    "linkedin"  : "linkedin.com/in/akshad-kurundwade-208079282",
+    "fun_fact"  : "I saw a gap in small-shop inventory management → built Inventra-AI 🚀"
 }
 ```
 
-> 🧠 *I'm an AI enthusiast who loves bridging the gap between cutting-edge AI research and practical, real-world applications. I build full-stack AI-powered products that are fast, smart, and useful.*
+> *I don't just learn AI — I ship with it. Every project starts with a real problem and ends with a working, intelligent solution.*
 
 ---
 
-## 🚀 Featured Projects
+## `~/projects`
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏪 [Inventra-AI](https://github.com/Akshadkurundwade07/Inventra-AI)
-AI-powered **Inventory Management System** built for small shops. Automates stock tracking and generates AI analysis reports — bridging the gap between local retail and smart tech.
+**⬡ [Inventra-AI](https://github.com/Akshadkurundwade07/Inventra-AI)**
 
-`JavaScript` · `AI Analytics` · `Full Stack`
+`JS` · `AI Analytics` · `Full Stack`
 
-</td>
-<td width="50%">
-
-### 💰 [AI Finance Tracker](https://github.com/Akshadkurundwade07/AI-finance-Tracker)
-Full-stack **expense management** web app with AI-based insights to categorize spending patterns and deliver smart financial advice.
-
-`JavaScript` · `AI Insights` · `Full Stack`
+AI-powered inventory management built for small shops. Spotted a real gap, built the solution — auto stock tracking + AI-generated analysis reports.
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📣 [AI Marketing Agent](https://github.com/Akshadkurundwade07/AI-marketing-Agent)
-An AI food marketing agent with conversational registration, smart campaign recommendations, and **AI-generated poster creation** — powered by Groq LLaMA 3 & Hugging Face.
+**⬡ [AI Finance Tracker](https://github.com/Akshadkurundwade07/AI-finance-Tracker)**
 
-`Python` · `Streamlit` · `Groq` · `LLaMA 3`
+`JS` · `AI Insights` · `Full Stack`
 
-</td>
-<td width="50%">
-
-### 🤖 [Multi-Agent AI System](https://github.com/Akshadkurundwade07/Multi-Agent-AI-System-RAG-Image-Generation-Web-Scraper-)
-A multi-agent **RAG system** combining retrieval, reasoning, and generation. Uses Groq LLM for fast text output and Hugging Face for image creation with web scraping built in.
-
-`Python` · `RAG` · `Groq` · `Hugging Face`
+Smart expense manager that doesn't just log money — it *thinks* about your spending. AI-powered pattern recognition and financial advice.
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ✅ [AI Todo List](https://github.com/Akshadkurundwade07/AI-powered-todo-list)
-A conversational **AI-powered task manager** — fully controlled via chatbot commands. Just chat to add, delete, or manage tasks.
+**⬡ [AI Marketing Agent](https://github.com/Akshadkurundwade07/AI-marketing-Agent)**
 
-`JavaScript` · `Chatbot` · `NLP`
+`Python` · `Groq LLaMA 3` · `Streamlit` · `HuggingFace`
+
+Food marketing reinvented. Conversational campaign setup, smart recommendations, and AI-generated marketing posters — all in one agent.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌍 [Wanderlust](https://github.com/Akshadkurundwade07/wonder_lust)
-A complete **Airbnb clone** with user auth, listing CRUD, photo uploads, reviews, and flash messages. Built with the full MERN-like stack.
+**⬡ [Multi-Agent RAG System](https://github.com/Akshadkurundwade07/Multi-Agent-AI-System-RAG-Image-Generation-Web-Scraper-)**
+
+`Python` · `LangChain` · `Groq` · `HuggingFace`
+
+Retrieval + Reasoning + Generation. A true multi-agent pipeline with web scraping, fast LLM inference, and AI image creation baked in.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**⬡ [AI Todo List](https://github.com/Akshadkurundwade07/AI-powered-todo-list)**
+
+`JS` · `Chatbot` · `NLP`
+
+Your to-do list, but smarter. 100% chatbot-controlled — just *talk* to it to add, complete, or delete tasks. No buttons needed.
+
+</td>
+<td width="50%" valign="top">
+
+**⬡ [Wanderlust](https://github.com/Akshadkurundwade07/wonder_lust)**
 
 `Node.js` · `Express` · `MongoDB` · `EJS`
+
+A fully-featured Airbnb clone with auth, listings, CRUD, photo uploads, reviews, and flash messaging. Clean, complete, production-grade.
 
 </td>
 </tr>
@@ -87,73 +115,66 @@ A complete **Airbnb clone** with user auth, listing CRUD, photo uploads, reviews
 
 ---
 
-## 🛠️ Tech Stack
+## `~/tech-stack`
 
 <div align="center">
 
-**AI / ML**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-**Frontend**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+| Domain | Technologies |
+|--------|-------------|
+| **AI & LLMs** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshadkurundwade07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshadkurundwade07&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshadkurundwade07&theme=tokyonight&hide_border=true" width="60%"/>
-</div>
-
----
-
-## 🌐 Connect With Me
+## `~/github-stats`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshad-kurundwade-208079282)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://warm-sorbet-ec0185.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshadkurundwade07)
+<img src="https://github-readme-stats.vercel.app/api?username=Akshadkurundwade07&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=050510&title_color=a78bfa&icon_color=7c3aed&text_color=8b87b0&count_private=true" height="160"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshadkurundwade07&layout=compact&theme=midnight-purple&hide_border=true&bg_color=050510&title_color=a78bfa&text_color=8b87b0" height="160"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Akshadkurundwade07&theme=midnight-purple&hide_border=true&background=050510&ring=7c3aed&fire=f97316&currStreakLabel=a78bfa&sideLabels=8b87b0&dates=6e6a8a" width="55%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshadkurundwade07&bg_color=050510&color=a78bfa&line=7c3aed&point=f97316&area=true&hide_border=true" width="95%"/>
 
 </div>
 
 ---
 
+## `~/connect`
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshad%20Kurundwade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshad-kurundwade-208079282)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site%20↗-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://warm-sorbet-ec0185.netlify.app/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-@Akshadkurundwade07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshadkurundwade07)
 
-*⭐️ Star my repos if you find them useful — it helps me build more!*
+<br/>
+
+```
+If you're building something intelligent, I'd love to connect.
+Let's make AI work for people who need it most.
+```
+
+<br/>
+
+![](https://komarev.com/ghpvc/?username=Akshadkurundwade07&label=profile+views&color=7c3aed&style=flat-square)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:1a0533,100:050510&height=3&section=footer" width="100%"/>
+
+*built with curiosity · powered by caffeine & AI · Akshad Kurundwade © 2026*
 
 </div>
