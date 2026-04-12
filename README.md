@@ -5,15 +5,6 @@
 </div>
 
 <div align="center">
-
-```
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║      A K S H A D   K U R U N D W A D E              ║
-║      AI Engineer  ·  Full Stack Developer            ║
-║      Building intelligent products that matter       ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
 ```
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=14&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=→+Turning+ideas+into+AI-powered+reality;→+LLMs+·+RAG+·+Agents+·+Full+Stack)](https://git.io/typing-svg)
